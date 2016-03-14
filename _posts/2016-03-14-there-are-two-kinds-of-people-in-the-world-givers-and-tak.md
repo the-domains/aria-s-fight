@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "There are two kinds of people in the world... givers and takers.\_"
-datePublished: '2016-03-14T18:51:50.029Z'
-dateModified: '2016-03-14T18:51:30.032Z'
+datePublished: '2016-03-14T19:00:07.622Z'
+dateModified: '2016-03-14T18:51:59.766Z'
 title: ''
 author: []
 authors: []
