@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "does anyone else have concerns about the food you put in your body. Bella Luna gluten free patisserie is amazing. If you \_know anyone with gluten intolerance and other food allergies then this is the place for you."
-datePublished: '2016-03-15T16:03:27.838Z'
-dateModified: '2016-03-15T16:02:57.606Z'
+datePublished: '2016-03-15T16:39:00.283Z'
+dateModified: '2016-03-15T16:06:26.005Z'
 title: ''
 author: []
 authors: []
