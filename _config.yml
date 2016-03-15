@@ -2,6 +2,7 @@ name: "Aria's Fight"
 favicon: null
 layout_spectrum: 0.990709
 typography_spectrum: 0.472128
+title: "Welcome to Aria's Fiht"
 cta:
   domain: null
   bucket: null
