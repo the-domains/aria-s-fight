@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Welcome to Aria's Fiht]]></title>
-        <description><![CDATA[Welcome to Aria's Fiht]]></description>
+        <title><![CDATA[Welcome to Aria's Fight]]></title>
+        <description><![CDATA[Welcome to Aria's Fight]]></description>
         <link>https://thegrid.ai/aria-s-fight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 18:00:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aria-s-fight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38546943-c200-4c7c-87cc-962af22a64d5.jpg">]]></description>
+            <link>https://thegrid.ai/aria-s-fight/the-beautiful-ladies-of-the-temple-we-dance-sing-play-wit/index.html</link>
+            <guid isPermaLink="false">e82141c7-467b-49a1-bf94-646db1869892</guid>
+            <pubDate>Tue, 15 Mar 2016 18:00:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e5a044-123e-4925-82f5-b3cb22a834aa.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/aria-s-fight/there-are-two-kinds-of-people-in-the-world-givers-and-tak/index.html</link>
             <guid isPermaLink="false">754f0f7d-b4ef-4e08-8978-cae18a35c5dc</guid>
             <pubDate>Mon, 14 Mar 2016 19:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38546943-c200-4c7c-87cc-962af22a64d5.jpg">]]></description>
-            <link>https://thegrid.ai/aria-s-fight/the-beautiful-ladies-of-the-temple-we-dance-sing-play-wit/index.html</link>
-            <guid isPermaLink="false">e82141c7-467b-49a1-bf94-646db1869892</guid>
-            <pubDate>Tue, 15 Mar 2016 16:47:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
