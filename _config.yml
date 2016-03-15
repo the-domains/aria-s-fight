@@ -1,7 +1,7 @@
 name: "Aria's Fight"
 favicon: null
 layout_spectrum: 0.990709
-typography_spectrum: 0.472128
+typography_spectrum: 0.87285
 title: "Welcome to Aria's Fiht"
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#f0d3cd'
   brandStrength: 0.639183932216838
   lightness: 0.4021073179319501
-  saturation: 0.031808618223294616
+  saturation: 0.5
   rhythmicContrast: 0.4523121777456254
 purpose: []
