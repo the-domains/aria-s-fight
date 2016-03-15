@@ -1,29 +1,18 @@
-name: "Aria's Fight"
-favicon: null
-layout_spectrum: 0.26429396006278694
-typography_spectrum: 0.2521690095309168
-title: "Welcome to Aria's Fight"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#C0C0B0'
+    - '#5E2633'
+    - '#808880'
+    - '#B04860'
+    - '#000000'
   brandStrength: 0.639183932216838
   lightness: 0.4021073179319501
-  saturation: 0.031808618223294616
   rhythmicContrast: 0.4523121777456254
+  saturation: 0.031808618223294616
+cta: {}
+layout_spectrum: 0.990709
+name: "Aria's Fight"
+opengraph: {}
 purpose: []
+typography_spectrum: 0.472128
