@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Does anyone else have concerns about the food you put in your body. Bella Luna gluten free patisserie is amazing. If you \_know anyone with gluten intolerance and other food allergies then this is the place for you."
-datePublished: '2016-03-15T18:14:50.934Z'
-dateModified: '2016-03-15T18:14:25.993Z'
+datePublished: '2016-03-15T18:48:54.693Z'
+dateModified: '2016-03-15T18:48:53.105Z'
 title: Bella Luna Gluten Free Patisserrie
 author: []
+sourcePath: _posts/2016-03-15-does-anyone-else-have-concerns-about-the-food-you-put-in-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-does-anyone-else-have-concerns-about-the-food-you-put-in-you.md
-published: true
 url: does-anyone-else-have-concerns-about-the-food-you-put-in-you/index.html
 _type: Article
 
