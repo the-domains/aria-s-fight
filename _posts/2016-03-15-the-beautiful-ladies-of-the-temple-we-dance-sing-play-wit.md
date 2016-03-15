@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "The beautiful ladies of the Temple. We dance, sing, play with fire and are spreading the love.\_"
-datePublished: '2016-03-15T18:18:29.689Z'
-dateModified: '2016-03-15T18:00:18.890Z'
+datePublished: '2016-03-15T18:24:18.258Z'
+dateModified: '2016-03-15T18:24:16.504Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-15-the-beautiful-ladies-of-the-temple-we-dance-sing-play-wit.md
