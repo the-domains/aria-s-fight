@@ -6,10 +6,10 @@ color:
     - '#A09858'
     - '#D0D030'
     - '#000000'
-  brandStrength: 0.921453
-  lightness: 0.373311
+  brandStrength: 0.806588
+  lightness: 0.247466
   rhythmicContrast: 0.75
-  saturation: 0.625
+  saturation: 0.524493
 cta: {}
 layout_spectrum: 1
 name: "Aria's Fight"
