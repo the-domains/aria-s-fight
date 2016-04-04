@@ -1,9 +1,9 @@
 analytics: {}
 color:
   brandColors:
-    - '#C0D0D8'
+    - '#B8C0C8'
     - '#000000'
-    - '#787880'
+    - '#98A8B0'
     - '#000000'
     - '#000000'
   brandStrength: 0.806588
