@@ -2,6 +2,7 @@ name: "Aria's Fight"
 favicon: null
 layout_spectrum: 0.89847
 typography_spectrum: 0.62637
+title: "Aria's fight "
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2e5b9'
-    - '#a38da2'
-    - '#d78b51'
-    - '#e05330'
-    - '#e52735'
+    - '#ffff9d'
+    - '#001000'
+    - '#08facf'
+    - '#198ff8'
+    - '#9ea9e9'
   brandStrength: 1
   lightness: 0.4375
   saturation: 0.375
