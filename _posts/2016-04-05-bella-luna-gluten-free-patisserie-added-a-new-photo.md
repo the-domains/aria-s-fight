@@ -13,9 +13,9 @@ keywords: []
 description: Bella Luna Gluten Free Patisserie added a new photo.
 title: ''
 app_links: []
-isBasedOnUrl: 'https://www.facebook.com/bellalunapatisserie/photos/pb.162865874053733.-2207520000.1459840482./180231205650533/?type=3&size=960%2C720&fbid=180231205650533'
-datePublished: '2016-04-05T08:11:42.756Z'
-dateModified: '2016-04-05T07:15:31.433Z'
+isBasedOnUrl: 'https://www.facebook.com/bellalunapatisserie/photos/pb.162865874053733.-2207520000.1459840482./189399571400363/?type=3&size=2048%2C1152&fbid=189399571400363'
+datePublished: '2016-04-05T08:11:43.272Z'
+dateModified: '2016-04-05T07:15:02.544Z'
 sourcePath: _posts/2016-04-05-bella-luna-gluten-free-patisserie-added-a-new-photo.md
 published: true
 inFeed: true
