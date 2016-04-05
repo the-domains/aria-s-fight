@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Welcome to Aria's Fight]]></title>
-        <description><![CDATA[Welcome to Aria's Fight]]></description>
+        <title><![CDATA[Aria's Fight]]></title>
+        <description><![CDATA[Aria's Fight]]></description>
         <link>https://thegrid.ai/aria-s-fight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 18:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 06:33:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aria-s-fight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The beautiful ladies of the Temple. We dance, sing, play with fire and are spreading the love. ]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e21837e61c8261bcb303d92cd3efe16c382f07e.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/aria-s-fight/there-are-two-kinds-of-people-in-the-world-givers-and-tak/index.html</link>
             <guid isPermaLink="false">754f0f7d-b4ef-4e08-8978-cae18a35c5dc</guid>
-            <pubDate>Tue, 15 Mar 2016 18:49:15 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 06:33:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
