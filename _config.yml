@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#ffff9d'
-    - '#001000'
-    - '#08facf'
-    - '#198ff8'
-    - '#9ea9e9'
+    - '#000000'
+    - '#8B5952'
+    - '#D1BB96'
+    - '#AC9084'
+    - '#DC597B'
   brandStrength: 0.5
   lightness: 0.5
   rhythmicContrast: 0.5
   saturation: 0.5
 cta: {}
 layout_spectrum: 0.89847
-name: "Aria's Fight"
+name: Aria's Fight
 opengraph: {}
 purpose: []
-typography_spectrum: 0.62637
+typography_spectrum: 0.065878
